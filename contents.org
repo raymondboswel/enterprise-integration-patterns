@@ -6,13 +6,13 @@
 ** READ Solving integration problems using patterns
 
 * Integration styles
-** TODO File transfer
-** TODO Shared Databases
-** TODO Remote Procedure Invocation
-** TODO Messaging 
+** READ File transfer
+** READ Shared Databases
+** READ Remote Procedure Invocation
+** READ Messaging 
 
 * Messaging Systems
-** TODO Introduction to messaging systems
+** READ Introduction to messaging systems
 ** TODO Message Channel
 ** TODO Message
 ** TODO Pipes and filters
