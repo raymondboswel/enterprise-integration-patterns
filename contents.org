@@ -1,0 +1,114 @@
+#+TODO: TODO READ REVISED DONE
+
+* Front Matter
+** READ Preface
+** READ Introduction
+** READ Solving integration problems using patterns
+
+* Integration styles
+** TODO File transfer
+** TODO Shared Databases
+** TODO Remote Procedure Invocation
+** TODO Messaging 
+
+* Messaging Systems
+** TODO Introduction to messaging systems
+** TODO Message Channel
+** TODO Message
+** TODO Pipes and filters
+** TODO Message Router
+** TODO Message translator
+** TODO Message Endpoint
+
+* Message Channels
+** TODO Introduction to message channels
+** TODO Point to point channels
+** TODO Publish-Subscribe channels
+** TODO Datatype channels
+** TODO Invalid message channels
+** TODO Dead letter channel
+** TODO Guaranteed Delivery
+** TODO Channel adapter
+** TODO Messaging bridge
+** TODO Message bus
+
+* Message Construction
+** TODO Introduction to message construction
+** TODO Command message
+** TODO Document message
+** TODO Event message
+** TODO Request-reply
+** TODO Return address
+** TODO Correlation identifier
+** TODO Message sequence
+** TODO Message expiration
+** TODO Indicator Format
+
+* Interlude: Simple messaging
+** TODO Introduction to simple messaging examples
+** TODO JMS Request/reply example 
+** TODO .net Request/reply example 
+** TODO JMS Publish/subscribe example 
+
+* Message routing
+** TODO Introduction to message routing
+** TODO Content-based router
+** TODO Message filter
+** TODO Dynamic Router
+** TODO Recipient List
+** TODO Splitter
+** TODO Aggregator
+** TODO Resequencer
+** TODO Composed Message processor
+** TODO Scatter-Gather
+** TODO Routing slip
+** TODO Process manager
+** TODO Message Broker
+
+* Message transformation
+** TODO Introduction to Message transformation
+** TODO Envelope wrapper
+** TODO Content enricher
+** TODO Content filter
+** TODO Claim check
+** TODO Normalizer
+** TODO Canonical data model
+
+* Interlude: Composed Messaging
+** TODO Introduction to Composed Messaging examples
+** TODO Synchronous implementation using web services
+** TODO Asynchronous implementation using MSMQ
+
+* Messaging Endpoints
+** TODO Introduction to Messaging Endpoints
+** TODO Messaging gateway
+** TODO Messaging Mapper
+** TODO Transactional Client
+** TODO Polling consumer
+** TODO Event-driven consumers
+** TODO Competing Consumers
+** TODO Message Dispatcher
+** TODO Selective Consumer
+** TODO Durable Subscriber
+** TODO Idempotent Receiver
+** TODO Service Activator
+
+* System Management
+** TODO Introduction to System Management
+** TODO Control bus
+** TODO Detour
+** TODO Wire Tap
+** TODO Message History
+** TODO Message Store
+** TODO Smart Proxy
+** TODO Test Message
+** TODO Channel Purger
+
+* Interlude: Systems Management Example
+** TODO Loan Broker System Management
+
+* Integration Patterns in Practice
+** TODO Case Study: Bond Trading System
+
+* Concluding Remarks
+** TODO Emerging Standards and Futures in Enterprise Integration	
